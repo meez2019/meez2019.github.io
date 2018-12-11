@@ -8,16 +8,16 @@
   thumbnailUrl: 14-15debarre.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-#- 
-  #id: 4
-  #name: "A"
-  #surname: "a"
-  #company: "UZH"
-  #title: "XXXXXXXX"
-  #bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
-  #thumbnailUrl: DmytroDanylyk.jpg
-  #rockstar: true
+    - {name: "google-plus", link: ""}
+- 
+  id: 4
+  name: "Prof. Jeremy"
+  surname: "Draghi"
+  company: "Brooklyn College - CUNY"
+  title: "XXXXXXXX"
+  bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
+  thumbnailUrl: draghi.jpg
+  rockstar: true
   #social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}

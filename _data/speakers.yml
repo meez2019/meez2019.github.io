@@ -1,11 +1,11 @@
 - 
   id: 3
-  name: "A"
-  surname: "a"
-  company: "UZH"
+  name: "Dr. Florence"
+  surname: "Débarre"
+  company: "Institute of ecology and environmental sciences"
   title: "XXXXXXXX"
   bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: 14-15debarre.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

@@ -14,7 +14,7 @@ title: "Modelling Ecology & Evolution Zurich"
 email: "meez2019@ieu.uzh.ch"
 description: "MEEZ is a modelling seminar for junior researchers in
 Ecology & Evolutionary Biology"
-baseurl: "/meez2019.github.io"
+baseurl: ""
 url: "https://meez2019.github.io"
 #permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"

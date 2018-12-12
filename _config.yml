@@ -86,6 +86,11 @@ statisticBlock:
  - {count: "20", specialCharacter: "", info: "posters"}
  - {count: "4", specialCharacter: "", info: "keynote speakers", detail: "from USA, France and Switzerland"}
 
+ 
+ 
+
+ 
+ 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"

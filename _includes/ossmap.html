@@ -1,6 +1,6 @@
 <!-- Begin Location Section -->
-<section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>  
+<section id="ossmap" class="ossmap"> 
+ 
    <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
@@ -25,6 +25,37 @@
                 </a>
             </div>
         </div>
-    </div>
+        
+        
+       <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-20 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0"> 
+       
+            <div id="map" class="map leaflet-container">
+
+       
+               <script> 
+                        var map = L.map('map').setView([47.358114, 8.561900], 13);
+                        mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+
+                        L.tileLayer(
+                        'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        attribution: 'Map data &copy; ' + mapLink,
+                        maxZoom: 18,
+                        }).addTo(map);
+                
+            
+            
+                        var marker = L.marker([47.358114, 8.561900])
+                                    .addTo(map)
+                                    .bindPopup("<b>Botanical Garden</b>")
+                                    .openPopup();
+
+            </script>
+    
+            </div>
+        
+        
+        </div>
+       </div>
+         
 </section>
 <!-- End Location Section -->

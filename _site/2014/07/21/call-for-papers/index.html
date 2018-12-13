@@ -52,20 +52,17 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.1/leaflet.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.1/leaflet.js"></script>
    
-
+   
+   
 <style type="text/css">
+   #map {    position: absolute;
+  height: 100%;
+  width: 100%;
+  outline: none;
+  touch-action: none;
+  background-color: #445a71;
+  }
 
-#map { 
-    height: 500px;
-    width: 1000px;
-    position:relative;
-  }
-  
-#map2 { 
-    height: 500px;
-    width: 1000px;
-    position:relative;
-  }
   
 </style>
 
@@ -240,17 +237,7 @@
 	<div class="row">
 		
         
-		<div class="col-md-6 col-xs-6">
-			<h5>Links</h5>
-			<ul>
-				
-				<li><a href=" https://www.ieu.uzh.ch/en.html " target="_blank">Department of Evolutionary Biology and Environmental Studies</a></li>
-				
-			</ul>
-		</div>
-		
-        
-		<div class="col-md-6 col-xs-6">
+		<div class="col-md-12 col-xs-6">
 			<h5>Contacts</h5>
 			<ul>
 				
@@ -409,22 +396,58 @@
             "@type" : "Person",
             "name" : "Dr. Florence Débarre",
             "image" : "http://localhost:4000/img/people/14-15debarre.jpg",
-            "jobTitle" : "XXXXXXXX",
+            "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
                 "name" : "Institute of ecology and environmental sciences"
             },
-            "sameAs" : ""
+            "sameAs" : "http://www.normalesup.org/~fdebarre/"
         },
         
         {
             "@type" : "Person",
             "name" : "Prof. Jeremy Draghi",
             "image" : "http://localhost:4000/img/people/draghi.jpeg",
-            "jobTitle" : "XXXXXXXX",
+            "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
                 "name" : "Brooklyn College - CUNY"
+            },
+            "sameAs" : ""
+        },
+        
+        {
+            "@type" : "Person",
+            "name" : "Jean Michel",
+            "image" : "http://localhost:4000/img/people/blackparrot.jpg",
+            "jobTitle" : "",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "Michel University"
+            },
+            "sameAs" : ""
+        },
+        
+        {
+            "@type" : "Person",
+            "name" : "Jean Michel2",
+            "image" : "http://localhost:4000/img/people/blackparrot.jpg",
+            "jobTitle" : "",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "Michel University"
+            },
+            "sameAs" : ""
+        },
+        
+        {
+            "@type" : "Person",
+            "name" : "Jean Michel3",
+            "image" : "http://localhost:4000/img/people/blackparrot.jpg",
+            "jobTitle" : "",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "Michel University"
             },
             "sameAs" : ""
         }

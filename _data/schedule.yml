@@ -1,50 +1,63 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2100-10-10"
+  dateReadable: "October 10"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Talks : Session 1", color: "#90be4e"}
   timeslots:
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	sessionIds: [001]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        sessionIds: [002]
     }
     - {
     	startTime: "12:00",
     	endTime: "11:45",
     	sessionIds: [307]
     }
+    - {
+    	startTime: "18:00",
+    	endTime: "19:00",
+    	sessionIds: [002]
+    }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+    - {title: "Apero-Poster 18h - 19h30", color: "#90be4e"}
+  timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	sessionIds: [001]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	sessionIds: [002]
+    }
+    - {
+    	sessionIds: [002]
+    }
+- 
+  date: "2100-10-10"
+  dateReadable: "October 10"
+  tracks: 
+    - {title: "Title", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [002]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307]
     }

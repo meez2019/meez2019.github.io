@@ -1,15 +1,11 @@
 <!-- Begin Find Way-->
 
-{% include head.html %}
+<section id="find-way" >    
 
-<section id="find-way" class="find-way">    
-
-
-<!--     <div id="canvas-map" class="canvas-map"></div> -->
-    
-      <div class="content-wrapper">
-        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
-            <div class="row">
+ <div class="content-wrapper">
+   <div class="row"> 
+     <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+           
                 <div class="pull-left">
                     <h3>{{ site.locationBlockTitle }}</h3>
                     <ul>
@@ -29,15 +25,12 @@
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
                 </a>
-            </div>
-        </div>
-        
-        
-       <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-20 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0"> 
-       
-            <div id="map">
-
-       
+         </div>
+  <section class="image-section standart-height">
+                   
+<!--    <div class="row">-->
+             <div id="map" class="map">
+ 
                <script> 
                         var map = L.map('map').setView([47.358114, 8.561900], 13);
                         mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
@@ -57,11 +50,18 @@
 
             </script>
     
-            </div>
-        
-        
-        </div>
-       </div>
+            </div> 
+            
+        </section>
+  <!--  </div>-->
+<!--     <div class="row"> -->
+   
+          </div> 
+        </section>       
+           
+<!--     
+       
+ </div>
 
 </section>
 <!-- End Find Way -->

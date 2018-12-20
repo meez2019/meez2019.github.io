@@ -158,7 +158,7 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "<br> Travelling to Botanical Garden Zürich"
+directionDetailsTitle: "<br> <br> Travelling to Botanical Garden Zürich"
 directionDetailsCards:
  - {title: "From Zürich main station or airport", information: 'When arriving at the airport, first take the train to Zürich main station. There are many different trains running this connection. <br> <b>From the main station</b> take bus 31 in the direction of Kienastenwies and get off at Freiestrasse, from there take bus 33E in the direction of Tiefenbrunnen and get off at Botanische Garten, a 8 min walk will take you to the entrance of the building. '}
  - {title: "From university locations within Zürich", information: '<b>From UZH - Irchel Campus:</b> Take tram 7 in the direction of Wollishofen and get off at Central, from there take tram 4 in the direction of Bahnhof Tiefenbrunnen and get of at Fröhlichstrasse and walk for 7 minutes. <br> <b> From ETH/UZH zentrum:</b> Walk to Neumarkt busstation and take bus number 31 in the direction of Kienastenwies, get off at Freiestrasse and take bus 33E in the direction of Bahnhof Tiefenbrunnen, get off at Botanischer Garten and walk for 8 minutes.'}
@@ -175,7 +175,7 @@ directionDetailsWideCards:
     title: "Hostels"
     links:
      - {link: "http://www.city-backpacker.ch", text: "City backpacker"}
-     - {link: "hhttps://oldtownzurich.com", text: "Hostel Otter"}
+     - {link: "https://oldtownzurich.com", text: "Hostel Otter"}
    -
     title: "Stay with fellow scientits"
     links:

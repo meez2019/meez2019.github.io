@@ -163,7 +163,6 @@ directionDetailsCards:
  - {title: "From Zürich main station or airport", information: 'When arriving at the airport, first take the train to Zürich main station. There are many different trains running this connection. \n From Zürich main station there are multiple options, taking around 25 minutes. OPTION 1: take bus 31 in the direction of Kienastenwies and get off at Freiestrasse, from there take bus 33E in the direction of Tiefenbrunnen and get off at Botanische Garten, a 8 min walk will take you to the entrance of the building. OPTION 2: take tram 4 in the direction of Bahnhof Tiefenbrunnen get off at Fröhlichstrasse and walk for 7 minutes.'}
  - {title: "From University of Zürich - Irchel Campus", information: 'The fastest route takes about 42 min. Take tram 7 in the direction of Wollishofen and get off at Central, from there take tram 4 in the direction of Bahnhof Tiefenbrunnen and get of at Fröhlichstrasse and walk for 7 minutes'}
  - {title: "From University of Zürich and ETH - Central Campus", information: 'The fastest route takes about 27 minutes. Walk to Neumarkt busstation and take bus number 31 in the direction of Kienastenwies, get off at Freiestrasse and take bus 33E in the direction of Bahnhof Tiefenbrunnen, get off at Botanischer Garten and walk for 8 minutes.'}
- - {title: "Finding the room in the Botanical Garden", information: ''}
 directionDetailsWideCards:
  -
   title: "Additional information for travelling and staying in Zürich"

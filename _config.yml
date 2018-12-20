@@ -158,9 +158,9 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Zürich"
+directionDetailsTitle: "Travelling to Botanical Garden Zürich"
 directionDetailsCards:
- - {title: "From Zürich main station or airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From Zürich main station or airport", information: 'When arriving at the airport, first take the train to Zürich main station. There are many different trains running this connection. From Zürich main station there are multiple options. OPTION 1: take tram number 3 in the direction of Klusplatz and get off at Klusplatz, from there take bus 33E in the direction of Tiefenbrunnen and get off at Botanische Garten, a 8 min walk will take you to the entrance of the building. OPTION 2: '}
  - {title: "From University of Zürich - Irchel Campus", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "From University of Zürich and ETH - Central Campus", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:

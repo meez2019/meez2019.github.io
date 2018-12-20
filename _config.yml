@@ -177,10 +177,7 @@ directionDetailsWideCards:
      - {link: "http://www.city-backpacker.ch", text: "City backpacker"}
      - {link: "hhttps://oldtownzurich.com", text: "Hostel Otter"}
    -
-    title: "Attendance Details"
+    title: "Stay with fellow scientits"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {text: "In the registration form you can indicate if you would like to be hosted by one of the visitors living in Zürich."}
 

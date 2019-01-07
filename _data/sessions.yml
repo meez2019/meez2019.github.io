@@ -1,32 +1,64 @@
 -
-  id: 307
+  id: 111
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: 222
+  title: "Registration & morning cofee"
+  place: "Hall"
+  service: true
+  description: "The first day a brief introduction will precede the talks "
+-
+  id: 333
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
+  id: 444
+  title: "Theme 1: Ecology and Evolution in Space"
+-
+  id: 555
+  title: "Theme 3: Exploring and Explaining Biodiversity"
+-
+  id: 666
+  title: "Theme 2: Social Evolution Across the Tree of Life"
+-
+  id: 777
+  title: "Theme 4: Landscape Dynamics and Species Interactions" 
+-
+  id: 888
+  title: "Contributed talks - 5 talks" 
+  description: "(15 min. presentation + 5 min. discussion)" 
+-
   id: 001
   title: "Title Florence Débarre"
-  description: "ABSTRACT DEBARRE"
+  description: "Astract Florence Débarre"
   subtype: keynote
   speakers: [1]
 -
   id: 002
-  title: "Title de Jean michel à la plage"
-  description: "Astract Jean Michel"
-  speakers: [3]
+  title: "Title de Jeremy Draghi"
+  description: "Astract Jeremy Draghi"
+  subtype: keynote
+  speakers: [2]
 -
   id: 003
-  title: "Title : Jean michel à la plage le retour"
-  description: "Astract Jean Michel"
-  speakers: [4]
+  title: "Title Maria Servidio"
+  description: "Astract Maria Servidio"
+  subtype: keynote
+  speakers: [3]
 -
   id: 004
-  title: "Title : Jean michel"
-  description: "Astract Jean Michel3"
-  speakers: [5]
+  title: "Title Jean michel"
+  description: "Astract Jean Michel"
+  subtype: keynote
+  speakers: [3]
+-
+  id: 005
+  title: "Apero + Poster session"
+-
+  id: 006
+  title: "Conclusion"
+-

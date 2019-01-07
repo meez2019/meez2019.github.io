@@ -22,7 +22,7 @@
   id: 3
   name: "Jean"
   surname: "Michel"
-  company: "Michel University"
+  company: "Jean Michel University"
   thumbnailUrl: blackparrot.jpg
   title:
   bio:
@@ -42,3 +42,4 @@
   thumbnailUrl: blackparrot.jpg
   title:
   bio:
+-

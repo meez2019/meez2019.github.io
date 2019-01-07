@@ -1,63 +1,58 @@
 - 
   date: "2100-10-10"
-  dateReadable: "October 10"
+  dateReadable: "27-28 June 2019"
   tracks: 
-    - {title: "Talks : Session 1", color: "#90be4e"}
+    - {title: "June 27th, Thursday", color: "#90be4e"}
+    - {title: "June 28th, Friday", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [222]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [002]
+    	sessionIds: [444,555]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [001,003]
     }
     - {
-    	startTime: "18:00",
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [111]
+    }
+    - {
+    	startTime: "10:30",
+    	endTime: "12:10",
+    	sessionIds: [888,888]
+    }
+    - {
+    	startTime: "12:10",
+    	endTime: "13:40",
+    	sessionIds: [333]
+    }
+    - {
+    	sessionIds: [666,777]
+    }
+    - {
+        startTime: "13:40",
+        endTime: "15:20",
+        sessionIds: [888,888]
+    }
+    - {
+        startTime: "15:20",
+        endTime: "15:50",
+        sessionIds: [111]
+    }
+    - {
+    	startTime: "15:50",
+        endTime: "16:50",
+        sessionIds: [002,004]
+    }
+    - {
+    	startTime: "16:50",
     	endTime: "19:00",
-    	sessionIds: [002]
-    }
-- 
-  tracks: 
-    - {title: "Apero-Poster 18h - 19h30", color: "#90be4e"}
-  timeslots:
-    - {
-    	sessionIds: [001]
-    }
-    - {
-        sessionIds: [003]
-    }
-    - {
-    	sessionIds: [002]
-    }
-    - {
-    	sessionIds: [002]
-    }
-- 
-  date: "2100-10-10"
-  dateReadable: "October 10"
-  tracks: 
-    - {title: "Title", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [002]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	sessionIds: [005,006]
     }

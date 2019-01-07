@@ -22,12 +22,12 @@ url: "https://meez2019.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+#organizerName: "GDG Lviv"
+#organizerAlternateName: "Google Developer Group Lviv"
+#organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+#organizerEmail: "lviv@gdg.org.ua"
+#organizerLogo: "/img/seo/organizer-logo.png"
+#organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 twitterAccount: "@meez2019"
@@ -124,14 +124,14 @@ twitterFeed: "http://XXXX"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+#organizersTitle: "Organizers"
 
 
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/", icon: "twitter"}
+ #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
  
  
@@ -153,7 +153,19 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs:  "Amongst everything, the seminar «Modelling Ecology & Evolution Zurich» has proved to be a unique opportunity for us to create links and exchanges. We hope that this event will offer you a chance to do the same. While we are all evolutionary modelers based in the city of Zurich (University of Zurich and ETH), our research covers various topics that contribute to the even greater research diversity of Switzerland.
+
+<br><br><b>Yagmur Erten (PhD student):</b> XXX
+
+<br><br><b>Judith Bouman (PhD student):</b> XXX
+
+<br><br><b>Pierre Laye (PhD student):</b> XXX
+
+<br><br><b>Stéphane Chantepie (Postdoc):</b> Until recently, my research focused on the estimation of demographical rates and genetic values on wild animal populations using statistical inferences. I recently joined the Guillaume's group of the Department of Evolutionary Biology and Environmental Studies (University of Zurich) to develop an individual-based simulation program and study the genetics of adaptation over large geographical scales.
+
+<br><br>We are convinced that we have a lot to share and to learn by meeting together around the broad theme of modelling in ecology and evolution.
+
+<br><br>We look forward to seeing you"
 
 
 # Logistics Direction Details Block

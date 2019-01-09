@@ -43,7 +43,7 @@ c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Rockstars"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  

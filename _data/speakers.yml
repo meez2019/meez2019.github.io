@@ -10,7 +10,7 @@
   social: 
     - {name: "site", link: "http://www.normalesup.org/~fdebarre/"}
 - 
-  id: 2
+  id: 4
   name: "Prof. Jeremy"
   surname: "Draghi"
   company: "Brooklyn College - CUNY, New York USA"
@@ -28,13 +28,14 @@
   bio: "SNF Prof. Melissa Penny's research focuses on developing and using mathematical models to understand parasite, host and intervention dynamics. Recently awarded an Swiss National Science Foundation (SNF) Professorship, the main aim of her research is to generate evidence for decision-making along the whole pathway of new tool development, from preclinical to clinical testing, and at implementation in real populations and health systems. Her particular interests are in vaccines and drugs for parasitic infections, in particular Plasmodium falciparum, and in within-host and epidemiological models of this pathogen."
   rockstar: true
 - 
-  id: 4
-  name: "Jean"
-  surname: "Michel2"
-  company: "Michel University"
-  thumbnailUrl: blackparrot.jpg
+  id: 2
+  name: "Prof. Antoine"
+  surname: "Guisan"
+  company: "University of Lausanne, Lausanne Switzerland"
+  thumbnailUrl: AGuisan2.jpg
   title:
-  bio:
+  bio: "The main focus of Prof. Guisan is on spatial predictive modelling of plant and animal distributions, and the communities they form. Besides theoretical and methodological interests in understanding and predicting species distributions, his group is developing models for various applied purposes, such as rare species management, assessing the potential impact of climate change on biodiversity, and anticipating biological invasions. His lab is also affiliated to the "Laboratory for Conservation Biology" of the University of Lausanne."
+  rockstar: true
 - 
   id: 5
   name: "Jean"

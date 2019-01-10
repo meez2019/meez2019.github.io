@@ -2,7 +2,7 @@
   id: 1
   name: "Dr. Florence"
   surname: "Débarre"
-  company: "Institute of ecology and environmental sciences"
+  company: "Institute of ecology and environmental sciences, Paris France"
   title:
   bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
   thumbnailUrl: 14-15debarre.jpg
@@ -13,19 +13,20 @@
   id: 2
   name: "Prof. Jeremy"
   surname: "Draghi"
-  company: "Brooklyn College - CUNY"
+  company: "Brooklyn College - CUNY, New York USA"
   title: 
   bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
   thumbnailUrl: draghi.jpeg
   rockstar: true
 - 
   id: 3
-  name: "Jean"
-  surname: "Michel"
-  company: "Jean Michel University"
-  thumbnailUrl: blackparrot.jpg
+  name: " Prof. Melissa"
+  surname: "Penny"
+  company: "Swiss Tropical and Public Health institute, Basel Switzerland"
+  thumbnailUrl: mellissa_penny.jpg
   title:
-  bio:
+  bio:"SNF Prof. Melissa Penny's research focuses on developing and using mathematical models to understand parasite, host and intervention dynamics. Recently awarded an Swiss National Science Foundation (SNF) Professorship, the main aim of her research is to generate evidence for decision-making along the whole pathway of new tool development, from preclinical to clinical testing, and at implementation in real populations and health systems. Her particular interests are in vaccines and drugs for parasitic infections, in particular Plasmodium falciparum, and in within-host and epidemiological models of this pathogen."
+  rockstar: true
 - 
   id: 4
   name: "Jean"

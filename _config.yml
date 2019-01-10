@@ -93,7 +93,7 @@ statisticBlock:
  
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall, Botanica Garden"
+eventLocationName: "Big Lecture Hall (Grosser Hörsaal), Botanical Garden"
 eventLocationLink: "http://bg.uzh.ch"
 eventStreetAddress: "Zollikerstrasse 107"
 eventAddressLocality: "Zürich"
@@ -108,19 +108,19 @@ mapCenterCoordinates: "47.358114, 8.561900"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Botanical garden"
-venueFeatures: ["2 rooms", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+#venueBlockTitle: "Venue"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Botanical garden"
+#venueFeatures: ["2 rooms", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "meez2019"
-twitterFeed: "http://XXXX"
+twitterFeed: "https://twitter.com/meez2019"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -130,7 +130,7 @@ twitterFeed: "http://XXXX"
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/", icon: "twitter"}
+ - {link: "https://twitter.com/meez2019", icon: "twitter"}
  #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
  

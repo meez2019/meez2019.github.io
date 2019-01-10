@@ -34,25 +34,25 @@
 -
   id: 001
   title: "Title: to be announced"
-  description: "Astract: to be announced"
+  description: "Abstract: to be announced"
   subtype: keynote
   speakers: [1]
 -
   id: 002
   title: "Title: to be announced"
-  description: "Astract: to be announced"
+  description: "Abstract: to be announced"
   subtype: keynote
   speakers: [2]
 -
   id: 003
   title: "Title: to be announced"
-  description: "Astract: to be announced"
+  description: "Abstract: to be announced"
   subtype: keynote
   speakers: [3]
 -
   id: 004
   title: "Title: to be announced"
-  description: "Astract: to be announced"
+  description: "Abstract: to be announced"
   subtype: keynote
   speakers: [4]
 -

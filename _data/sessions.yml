@@ -33,28 +33,28 @@
   description: "(15 min. presentation + 5 min. discussion)" 
 -
   id: 001
-  title: "Title Florence Débarre"
-  description: "Astract Florence Débarre"
+  title: "Title: TBA"
+  description: "Astract: TBA"
   subtype: keynote
   speakers: [1]
 -
   id: 002
-  title: "Title de Jeremy Draghi"
-  description: "Astract Jeremy Draghi"
+  title: "Title: TBA"
+  description: "Astract: TBA"
   subtype: keynote
   speakers: [2]
 -
   id: 003
-  title: "Title Melissa Penny"
-  description: "Astract Melissa Penny"
+  title: "Title: TBA"
+  description: "Astract: TBA"
   subtype: keynote
   speakers: [3]
 -
   id: 004
-  title: "Title Jean michel"
-  description: "Astract Jean Michel"
+  title: "Title: TBA"
+  description: "Astract: TBA"
   subtype: keynote
-  speakers: [3]
+  speakers: [4]
 -
   id: 005
   title: "Apero + Poster session"

@@ -33,26 +33,26 @@
   description: "(15 min. presentation + 5 min. discussion)" 
 -
   id: 001
-  title: "Title: TBA"
-  description: "Astract: TBA"
+  title: "Title: to be announced"
+  description: "Astract: to be announced"
   subtype: keynote
   speakers: [1]
 -
   id: 002
-  title: "Title: TBA"
-  description: "Astract: TBA"
+  title: "Title: to be announced"
+  description: "Astract: to be announced"
   subtype: keynote
   speakers: [2]
 -
   id: 003
-  title: "Title: TBA"
-  description: "Astract: TBA"
+  title: "Title: to be announced"
+  description: "Astract: to be announced"
   subtype: keynote
   speakers: [3]
 -
   id: 004
-  title: "Title: TBA"
-  description: "Astract: TBA"
+  title: "Title: to be announced"
+  description: "Astract: to be announced"
   subtype: keynote
   speakers: [4]
 -

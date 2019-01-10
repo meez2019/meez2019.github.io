@@ -62,11 +62,14 @@ heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text: "Become a speaker / Present a poster"}
  
 # About Block
-aboutTitle: "About MEEZ conference"
+aboutTitle: "About MEEZ"
 aboutBlock:
- - {title: "A modelling seminar for junior researchers in
-Ecology & Evolutionary Biology
-",  text: "bezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb stbezfzefzefz efezfzefze fzefzefzefzefze njty hgqezfnsrtyghb st" }
+ - {title: "A seminar on modelling in Ecology & Evolutionary Biology for junior researchers",
+   text: "We are happy to invite you to join us in this two-day seminar on modelling, 
+   specifically intended for junior researchers in Switzerland to present their work. Inspired by MEE in Montpellier and Zurich Interaction Seminars, we aim 
+   to create a friendly environment where young scientists can present their work and interact with each other. We hope that this seminar will
+   give an overview of the current topics in the field and increase interactions between young modellers in Switzerland."
+ }
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -76,7 +79,7 @@ rockstarSpeakersButtonText: "See keynote speakers"
  
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Important dates"
 
  # statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -85,10 +88,6 @@ statisticBlock:
  - {count: "20", specialCharacter: "", info: "presentations"}
  - {count: "20", specialCharacter: "", info: "posters"}
  - {count: "4", specialCharacter: "", info: "keynote speakers", detail: "from USA, France and Switzerland"}
-
- 
- 
-
  
  
 # Location Block
@@ -153,9 +152,9 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs:  "Amongst everything, the seminar «Modelling Ecology & Evolution Zurich» has proved to be a unique opportunity for us to create links and exchanges. We hope that this event will offer you a chance to do the same. While we are all evolutionary modelers based in the city of Zurich (University of Zurich and ETH), our research covers various topics that contribute to the even greater research diversity of Switzerland.
+aboutUs:  "Amongst everything, the seminar «Modelling Ecology & Evolution Zurich» has proved to be a unique opportunity for us to create links and exchanges. We hope that this event will offer you a chance to do the same. While we are all evolutionary modelers based in the city of Zurich (University of Zurich and ETH), our research covers diverse topics.
 
-<br><br><b>Yagmur Erten (PhD student):</b> XXX
+<br><br><b>Yagmur Erten (PhD student):</b> I am interested in using mathematical and computational models to study evolutionary questions. Having previously worked on cultural evolution and evolutionary epidemiology, I am currently a PhD student at Hanna Kokko's group in University of Zurich, working on life history evolution under cancer risk.
 
 <br><br><b>Judith Bouman (PhD student):</b> I started working with Roland Regös at ETH in March 2018. My work is mainly concentrated on modelling the within-host dynamics of HIV infections. I look for instance at the effect that non-neutral selection scenarios have on the use of phylogenetic techniques on within-host HIV models.
 

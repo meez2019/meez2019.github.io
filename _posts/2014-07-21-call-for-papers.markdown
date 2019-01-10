@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+title:  "Important dates"
 isStaticPost: false
 ---
-Call for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for PapersCall for Papers
-#### Call for Papers
 
-* Call for Papers
-* Call for Papers
-* Call for Papers
+* January 15, 2019: Call for abstracts
+* March 15, 2019: Abstract submission deadline
+* March 29, 2019: Decision on abstracts & registration open
+* May 3, 2019: Registration deadline

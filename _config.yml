@@ -93,7 +93,7 @@ statisticBlock:
  
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "Conference Hall, Botanica Garden"
 eventLocationLink: "http://bg.uzh.ch"
 eventStreetAddress: "Zollikerstrasse 107"
 eventAddressLocality: "Zürich"

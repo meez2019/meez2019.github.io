@@ -43,7 +43,7 @@ c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Rockstars"}
+ - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  
@@ -72,7 +72,7 @@ Ecology & Evolutionary Biology
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Keynote speakers"
-rockstarSpeakersButtonText: "See rockstar speakers"
+rockstarSpeakersButtonText: "See keynote speakers"
  
 
 # Latest News Block
@@ -108,13 +108,13 @@ mapCenterCoordinates: "47.358114, 8.561900"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Botanical garden"
-venueFeatures: ["2 rooms", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+#venueBlockTitle: "Venue"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Botanical garden"
+#venueFeatures: ["2 rooms", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

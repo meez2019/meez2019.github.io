@@ -10,6 +10,15 @@
   social: 
     - {name: "site", link: "http://www.normalesup.org/~fdebarre/"}
 - 
+  id: 2
+  name: "Prof. Antoine"
+  surname: "Guisan"
+  company: "University of Lausanne, Lausanne Switzerland"
+  thumbnailUrl: AGuisan2.jpg
+  title:
+  bio: 
+  rockstar: true
+- 
   id: 3
   name: " Prof. Melissa"
   surname: "Penny"
@@ -26,14 +35,5 @@
   title: 
   bio: "A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true A is true "
   thumbnailUrl: draghi.jpeg
-  rockstar: true
-- 
-  id: 2
-  name: "Prof. Antoine"
-  surname: "Guisan"
-  company: "University of Lausanne, Lausanne Switzerland"
-  thumbnailUrl: AGuisan2.jpg
-  title:
-  bio: 
   rockstar: true
 -

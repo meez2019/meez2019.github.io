@@ -11,9 +11,6 @@
     	sessionIds: [222]
     }
     - {
-    	sessionIds: [444,555]
-    }
-    - {
     	startTime: "09:00",
         endTime: "10:00",
         sessionIds: [001,003]
@@ -32,9 +29,6 @@
     	startTime: "12:10",
     	endTime: "13:40",
     	sessionIds: [333]
-    }
-    - {
-    	sessionIds: [666,777]
     }
     - {
         startTime: "13:40",

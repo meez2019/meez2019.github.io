@@ -65,7 +65,7 @@ heroButtons:
 aboutTitle: "About MEEZ"
 aboutBlock:
  - {title: "A seminar on modelling in Ecology & Evolutionary Biology for junior researchers",
-   text: "We are happy to invite you to join us in this two-day seminar on modelling, 
+   text: "<br> We are happy to invite you to join us in this two-day seminar on modelling, 
    specifically intended for junior researchers in Switzerland to present their work. Inspired by MEE in Montpellier and Zurich Interaction Seminars, we aim 
    to create a friendly environment where young scientists can present their work and interact with each other. We hope that this seminar will
    give an overview of the current topics in the field and increase interactions between young modellers in Switzerland."

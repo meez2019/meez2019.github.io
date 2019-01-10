@@ -18,6 +18,8 @@
   title:
   bio: "The main focus of Prof. Guisan is on spatial predictive modelling of plant and animal distributions, and the communities they form. Besides theoretical and methodological interests in understanding and predicting species distributions, his group is developing models for various applied purposes, such as rare species management, assessing the potential impact of climate change on biodiversity, and anticipating biological invasions. His lab is also affiliated to the 'Laboratory for Conservation Biology' of the University of Lausanne."
   rockstar: true
+  social: 
+    - {name: "site", link: "https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-antoine-guisan.html"}
 - 
   id: 3
   name: " Prof. Melissa"
@@ -27,6 +29,8 @@
   title:
   bio: "SNF Prof. Melissa Penny's research focuses on developing and using mathematical models to understand parasite, host and intervention dynamics. Recently awarded an Swiss National Science Foundation (SNF) Professorship, the main aim of her research is to generate evidence for decision-making along the whole pathway of new tool development, from preclinical to clinical testing, and at implementation in real populations and health systems. Her particular interests are in vaccines and drugs for parasitic infections, in particular Plasmodium falciparum, and in within-host and epidemiological models of this pathogen."
   rockstar: true
+  social: 
+    - {name: "site", link: "https://www.swisstph.ch/en/staff/profile/people/melissa-penny/"}
 - 
   id: 4
   name: "Prof. Jeremy"
@@ -36,4 +40,6 @@
   bio: "Primarily, Prof. Draghi uses computer models to probe the basic connections between evolutionary processes and empirical patterns. For example, he has built and analyzed models to understand how natural selection can lead to greater evolvability, defined as the average speed of adaptation in new environments. In these studies, he simulated a genotype-phenotype relationship as well as selection and reproduction in a population. The basic idea is to devise a genotype-phenotype model that captures some feature of real organisms that he thinks might be especially relevant for his question; then, he can approach this model like an experimentalist, devising experiments with treatments and controls to reveal how different kinds of evolution lead to differences in properties like evolvability. "
   thumbnailUrl: draghi.jpeg
   rockstar: true
+  social: 
+    - {name: "site", link: "https://jeremydraghi.com/bio/"}
 -

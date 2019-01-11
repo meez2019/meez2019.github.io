@@ -31,7 +31,7 @@
              <div id="map" class="map">
  
                <script> 
-                        var map = L.map('map').setView([47.358114, 8.561900], 13);
+                        var map = L.map('map').setView([47.414555, 8.554033], 12);
                         mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
 
                         L.tileLayer(
@@ -40,13 +40,40 @@
                         maxZoom: 18,
                         }).addTo(map);
                 
+      
+                        var LeafIcon = L.Icon.extend({
+                            options: {
+                                iconSize:     [14, 25],
+                                iconAnchor:   [7.5, 25],
+                                popupAnchor:  [0, -25]
+                            }
+                        });
             
+               var blueIcon = new LeafIcon({iconUrl: '{{ site.baseurl }}/img/other/blue.png'}),
+                            redIcon = new LeafIcon({iconUrl: '{{ site.baseurl }}/img/other/red.png'});
+                        
             
-                        var marker = L.marker([47.358114, 8.561900])
-                                    .addTo(map)
-                                    .bindPopup("<b>Botanical Garden</b>")
-                                    .openPopup();
+             L.icon = function (options) {
+                                return new L.Icon(options);
+                            };
+      
+                                    
+                                    
 
+    var marker1 = L.marker([47.358114, 8.561900], {icon: redIcon},{title:"Botanical Garden"}).addTo(map).bindPopup("Botanical Garden", {closeOnClick: false, autoClose: false}).openPopup();
+  
+    var marker2 = L.marker([47.397558, 8.548838], {icon: blueIcon},{title:"University of Zürich"}).addTo(map).bindPopup("University of Zürich");
+    
+var marker3 = L.marker([47.450131, 8.564193], {icon: blueIcon},{title:"Airport"}).addTo(map).bindPopup("Airport", {closeOnClick: false, autoClose: false}).openPopup();
+
+var marker4 = L.marker([ 47.378580, 8.538374 ], {icon: blueIcon},{title:"Central train station"}).addTo(map).bindPopup("Central train station", {closeOnClick: false, autoClose: false}).openPopup();
+
+var marker5 = L.marker([47.376526, 8.548567], {icon: blueIcon},{title:"ETH"}).addTo(map).bindPopup("ETH");
+
+var group = new L.featureGroup([marker1, marker2, marker3, marker4, marker5]);
+
+map.fitBounds(group.getBounds().pad(0.34));             
+                                                            
             </script>
     
             </div> 

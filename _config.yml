@@ -117,9 +117,9 @@ mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Follow our news:"
 twitterHashTag: "meez2019"
-twitterFeed: "https://twitter.com/meez2019"
+twitterFeed: " https://twitter.com/meez2019"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block

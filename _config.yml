@@ -60,6 +60,7 @@ typeoutTextValues: '"", "Zurich"'
 typeoutFallback: "Zurich"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text: "Present a poster"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
  
 # About Block
 aboutTitle: "About MEEZ"

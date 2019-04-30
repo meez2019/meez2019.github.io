@@ -48,12 +48,12 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text:  "Present a poster"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text:  "Present a poster"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
+#bottomNavigationLinks:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text:  "Present a poster"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
+#rightNavigationButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text:  "Present a poster"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,9 +61,9 @@ heroTitle: "Modelling Ecology & Evolution <typeout> 2019"
 eventDate: "27-28 June 2019"
 typeoutTextValues: '"", "Zurich"'
 typeoutFallback: "Zurich"
-heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text: "Present a poster"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
+#heroButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScwdz8PhE8FDZOlGek8IFIHnLl9tR6mnaEdHQx_vT4yBSztuw/viewform", text: "Present a poster"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeUnElME7rZHaOZ4HSPJBLdDlg7yiAw1RUZvw3JRGnjUaC6qA/viewform", text: "Register to attend"}
  
 # About Block
 aboutTitle: "About MEEZ"

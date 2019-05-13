@@ -8,7 +8,7 @@
                 <div class="track-header-label"></div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
-                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %} 
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
                         <h5 class="track-header-title">{{ track.title }}</h5>
                     </div>
@@ -19,7 +19,10 @@
                 </div>
             </div>
             {% for timeslot in day.timeslots %}
+            
+            
             <div class="timeslot" itemtype="http://schema.org/subEvent">
+            
                 <div class="timeslot-label">
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
                         {% assign startTime = timeslot.startTime | split: ":" %}
@@ -30,9 +33,11 @@
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
                 </div>
+        
+          
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for slot in timeslot.sessionIds %}
-                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                    {% assign slotColWidth = 12 | divided_by: forloop.length %}
                         {% assign slotIndex = forloop.index0 %}
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
@@ -46,11 +51,23 @@
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
+                                                    
+                                                    
+                                                     {% if speaker.rockstar==true %}
                                                     <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>
                                                     </li>
+                                                     {% endif %}
+                                                     
+                                                     {% if speaker.rockstar==false %}
+                                                    <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
+                                                     <span class="speaker-position">{{ speaker.company }}</span>
+                                                    </p>
+                                                    </li>
+                                                     {% endif %}
+                                                    
                                                     {% endif %}
                                                 {% endfor %}    
                                             {% endfor %}

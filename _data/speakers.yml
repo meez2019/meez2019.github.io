@@ -37,9 +37,414 @@
   surname: "Draghi"
   company: "Brooklyn College - CUNY, New York USA"
   title: 
-  bio: "Primarily, Prof. Draghi uses computer models to probe the basic connections between evolutionary processes and empirical patterns. For example, he has built and analyzed models to understand how natural selection can lead to greater evolvability, defined as the average speed of adaptation in new environments. In these studies, he simulated a genotype-phenotype relationship as well as selection and reproduction in a population. The basic idea is to devise a genotype-phenotype model that captures some feature of real organisms that he thinks might be especially relevant for his question; then, he can approach this model like an experimentalist, devising experiments with treatments and controls to reveal how different kinds of evolution lead to differences in properties like evolvability. "
+  bio: "Primarily, Prof. Draghi uses computer models to probe the basic connections between evolutionary processes and empirical patterns. For example, he has built and analyzed models to understand how natural selection can lead to greater evolvability, defined as the average speed of adaptation in new environments. In these studies, he simulated a genotype-phenotype relationship as well as selection and reproduction in a population. The basic idea is to devise a genotype-phenotype model that captures some feature of real organisms that he thinks might be especially relevant for his question; then, he can approach this model like an experimentalist, devising experiments with treatments and controls to reveal how different kinds of evolution lead to differences in properties like evolvability."
   thumbnailUrl: draghi.jpeg
   rockstar: true
   social: 
     - {name: "site", link: "https://jeremydraghi.com/bio/"}
+- 
+  id: 5
+  name: "Alejandro V"
+  surname: "Cano"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "Mutation is a biased stochastic process, with some kinds of mutations occurring more frequently than others. Previous work has used synthetic genotype-phenotype landscapes to study how such mutation bias affects adaptive evolution. Here, we consider 746 empirical genotype-phenotype landscapes, each of which describes the strength with which a transcription factor binds its target DNA sequences, to study the influence of mutation bias on the adaptive evolution of increased binding strength. By using empirical genotype-phenotype landscapes, no assumptions are needed about landscape topography or about the DNA sequences that each landscape contains. The latter is particularly important, because the set of sequences that each landscape contains determines the kinds of mutations that can occur along a mutational path to an adaptive peak. That is, each landscape has an intrinsic mutation bias. Our results suggest that the interplay of this intrinsic bias with the bias in the mutation process influences landscape navigability, population diversity, and the predictability of evolution.
+  <br/><br/>
+  Co-authors:<br/>
+  Joshua L. Payne - ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+- 
+  id: 6
+  name: "Robert"
+  surname: "Noble"
+  company: "University of Zürich, Zürich, Switzerland & ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "Characterizing the mode - the way, manner, or pattern - of evolution in tumours is important for clinical forecasting and optimizing cancer treatment. DNA sequencing studies have inferred various modes, including branching, punctuated and neutral evolution, but it is unclear why a particular pattern predominates in any given tumour. Here we propose that differences in tumour architecture alone can explain the variety of observed patterns. We examine this hypothesis using spatially explicit population genetic models and demonstrate that, within biologically relevant parameter ranges, tumours are expected to exhibit diverse evolutionary modes including four archetypal 'oncoevotypes': rapid clonal expansion (predicted in leukaemia); progressive diversification (in colorectal adenomas and early-stage colorectal carcinomas); branching evolution (in invasive glandular tumours); and effectively almost neutral evolution (in certain non-glandular and poorly differentiated solid tumours). We thus provide a simple, mechanistic explanation for a wide range of empirical observations. Oncoevotypes are driven by differences in cell dispersal and cell-cell interactions, which we show are essential for accurately characterizing, forecasting and controlling tumour evolution.
+  <br/><br/>
+  Co-authors:<br/>
+ Dominik Burri - University of Basel, Basel, Switzerland<br/>
+Jakob Nikolas Kather - DKFZ, Heidelberg, Germany<br/>
+Niko Beerenwinkel - ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+- 
+  id: 7
+  name: "Max"
+  surname: "Schmid"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "Environmental conditions fluctuate between years and change directionally over time, and organisms must cope with this complexity in order to survive. We investigated theoretically if life history strategies trade-off between their effect on population sensitivity to interannual environmental fluctuations and their capacity to evolve directional trait changes. We modeled a single population under density-dependent regulation with different 3-stage life histories (offspring, juvenile, adult). Offspring and adults were modeled as highly tolerant life stages, while only juvenile survival varied with the environment. Life histories had either delayed or precocious offspring maturation (i.e. with or without dormancy), and were either semelparous or iteroparous. We could demonstrate, mathematically and with stochastic individual-based simulations that a trade-off exists between robustness to environmental fluctuations and evolvability. Life histories with iteroparous reproduction and delayed maturation were more robust against interannual environmental fluctuations but less able to achieve directional trait changes. In our simulations, these characteristics translated directly into the extinction risk of populations. The most sensitive life history (a biennial life cycle) had the highest extinction probability in face of large interannual fluctuations and in an early phase of gradual change, but could cope best with long-lasting directional environmental change.
+  <br/><br/>
+  Co-authors:<br/>
+  Frédéric Guillaume - University of Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+- 
+  id: 8
+  name: "Matthias"
+  surname: "Galipaud"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "Individuals often vary in condition within populations, and it is still largely unknown how this affects demography. Here, we investigate theoretically how optimal condition-dependent life-history investment in maternal care leads to consistent differences in actuarial senescence within populations. We consider that there is a trade-off between investments in parental care and somatic damages repair and that offspring less cared for enter adulthood in lower condition i.e. more damages. In accordance with previous models, we find that mothers should invest heavily in maternal care and experience high rates of actuarial senescence with increasing adult mortality. However, as a result of high investment in maternal care throughout life, mothers also consistently produce offspring of good condition, which in turn experience relatively lower rate of senescence. Under low levels of adult mortality, mothers should invest relatively less in care early than later in life, resulting in high population variance in offspring condition. This in turn leads to consistent between-individual variance in both life-history strategies and the rate of actuarial senescence in the population. We provide predictions about the expected relationship between condition and the rate of actuarial senescence, and discuss how between-individual variance in senescence affects the accuracy of actuarial senescence measures made in natural populations.
+  <br/><br/>
+  Co-authors:<br/>
+  Jean-François Lemaître - UCBL, Lyon, France<br/>
+Jean-Michel Gaillard - UCBL, Lyon, France"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+- 
+  id: 9
+  name: "Jussi"
+  surname: "Lehtonen"
+  company: "University of Sydney, Sydney, Australia"
+  title:
+  bio: "The evolutionary origin of mortality and limited lifespan is one of the oldest biological mysteries. During the last six decades, most models on the evolution of senescence have been founded on the idea of weakening effectiveness of natural selection on traits that are expressed late in life, following verbal arguments put forward by Medawar, Williams and others. Beginning with Hamilton’s influential mathematical analysis of these ideas, models have typically made simplifying mathematical assumptions of infinite population size and mutations of small effect – assumptions that were absent from the earlier verbal arguments. I will present a simple model incorporating finite population size and mutations of large effect into theory on the evolution of longevity. By combining finite population size with mutations of large effect, I demonstrate a connection between the evolution of longevity and the concepts of near neutrality and the drift barrier, generating new predictions. The results suggest a clear quantitative explanation for why typical metazoan maximum lifespans tend to be limited to decades or at most centuries, instead of thousands of years or more."
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 10
+  name: "Linh Phuong"
+  surname: "Nguyen"
+  company: "Ecole Normale Supérieure, Paris, France "
+  title:
+  bio: "Symbiosis is such a ubiquitous interaction that no individual on Earth lives its life in solitude. It has been realised that symbiosis is a source of novel morphology and evolutionary innovation. Since, many researches on symbiosis have been conducted, focusing on the ecological interactions. It was realised that symbiosis evolves along a continuum of dependency, from facultative to obligate symbiosis. Obligate symbiosis is suggested to evolve from facultative symbiosis, and may results in more complex organisms through permanent associations of simpler ones. Yet it is not so obvious why facultative symbionts, who are benefiting from both the external environment and their hosts, would give up this best of both worlds. Empirical studies have shown that obligate symbiosis involved functional loss, hence, obligate symbionts lose their independent reproduction, but life in associations surely requires adaptations. Thus, the evolution of obligate symbiosis must involve both functional gain and loss. We use the adaptive dynamics approach to disentangle the pure strategies that a symbiont can adopt: the free-living lifestyle, obligate symbiosis with horizontal transmission, and obligate symbiosis with vertical transmission. We worked out the conditions under which a mutant with small adaptations to symbiosis invades a resident population without any adaptation. We further explored the conditions where a singular strategy of adaptations to symbiosis exists, and whether resident population that has such adaptations forgo its independent reproduction. This singular strategy may be an ESS, which indicates stable obligate symbiosis, but also a branching point, which indicates unstable obligate symbiosis. Unstable obligate symbiosis indicates the evolutionary transition back to facultative symbiosis or the complete breakdown of the symbiotic relationship.<br/><br/>
+  Co-authors:<br/>
+  Minus van Baalen - Ecole Normale Supérieure, Paris, France"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 11
+  name: "Robert"
+  surname: "Dünner"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "I use an agent-based simulation to explore hierarchically structured host-parasite metapopulations, where several host (sub-) populations share the same global parasite population. Using resource allocation hypothesis as the foundation for within agent dynamics, allows me to simulate both host-type and parasite-type agents. I ask how host metapopulation structure affects negative frequency dependant selection in local populations. I will show an example of a particular situation, where the parasite population is tracking mean (‘global’) host genotype frequencies of a metapopulation, and how this mean that the parasite population is tracking can differ substantially from the local host genotype frequencies within particular host subpopulations. Local host genotypes that are more frequent in their subpopulation than globally, will experience less parasite pressure than in the case where the parasite is cycling locally. The opposite is true for host genotypes that are locally rare but globally common as they will experience parasite pressure that corresponds to global expectation. This leads to a reduction of the force of negative frequency dependant selection within subpopulations and favours divergence of host genotype frequencies between subpopulations."
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 12
+  name: "Matthew"
+  surname: "Barbourn"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "Ecological character displacement is an adaptive process, often enhancing coexistence between consumers by reducing competition for shared resources. This competition perspective undermines the fact that consumer-resource interactions ultimately mediate the process of character displacement. As a consequence, the effects of character displacement on consumer-resource interactions and food-web dynamics have been ignored. Here, I study a model of two consumers competing for two shared resources to examine how character displacement in consumers affects resource abundances and the resilience of food webs to perturbations. I studied these effects under different assumptions of evolutionary tradeoffs, consumer foraging behavior, and resource distributions. I found that character displacement always strengthened consumer-resource interactions whenever consumers competed for resources that occurred in distinct habitats. This increase in interaction strength resulted in lower resource abundances and less resilient food webs. This occurred under different evolutionary tradeoffs and in both simple and more realistic foraging scenarios. While character displacement did not always increase the strength of consumer-resource interactions, these contingent effects only occurred under the simplest and least realistic foraging scenario. Taken together, my results show that the adaptive process of character displacement often comes at the ecological cost of decreasing food-web resilience. They also highlight that food-web and competition theory can give complementary insights to the ecological consequences of adaptation."
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 13
+  name: "Damian"
+  surname: "Ortiz-Rodríguez"
+  company: "ETH Zürich, Zürich, Switzerland & WSL, Birmensdorf, Switzerland"
+  title:
+  bio: "The presence or absence (i.e., occurrence-state) of species in suitable habitat patches constitutes very valuable information for biodiversity conservation. However, obtaining such information in the field is expensive and very time-consuming, and existing models to predict occurrence demand very systematically collected data, which is seldom available. Addressing such issues, we present a multi-species implementation of our network-based modelling approach to predict species occurrence-state in habitat patches using readily available non-systematically sampled presence-only data. Based on it, we also put forward a set of conservation priority areas derived from the joint spatial analysis of the habitat networks of different amphibian species. We applied our multi-step approach to nine amphibian species on the Swiss Plateau. For all of them, the patches constituting the nodes of the habitat networks were derived from ensemble habitat suitability models, while the edges were defined by cost surfaces informed by species maximum dispersal distances. We calculated a selection of predictors representing the quality of a patch, the cost of traversing the landscape matrix between patches, and the position of a patch in the habitat network topology. The response variable occurrence-state was parametrized by a procedure that derives likely absences from a threshold of visits and observations of related species. We related the predictors to the response variable by means of boosted regression trees. The results of such models allowed us to define areas of conservation priority by means of identifying nodes and edges of topological importance for multiple networks, taking into consideration the occurrence-states of the patches. We were able to identify topological patterns linked to species characteristics, and to prove the viability of our approach for multiple species. We offer a generic modelling alternative that can potentially be used in a variety of environments.<br/><br/>
+  Co-authors:<br/>
+  Maarten J. van Strien - ETH Zürich, Zürich, Switzerland<br/>
+  Antoine Guisan - University of Lausanne, Lausanne, Switzerland<br/>
+  Rolf Holderegger - WSL, Birmensdorf, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 14
+  name: "Theofania"
+  surname: "Patsiou"
+  company: "University of Basel, Basel, Switzerland"
+  title:
+  bio: "The geographic and elevational distribution of plants are primarily determined by climate. So far, little is known about the precise aspects of climate that limit a species' distribution. Here we pinpointed the topo-climatic variables that contribute strongest to low- and high-elevation distribution limits as well as to optimal elevation in Brassicaceae species of the central Alps. We also tested whether the cold or the warm end of the niche was more conserved and whether niche breadth increased with increasing elevation. For each species, we modelled the ecological niche and the response of its distribution to topo-climatic variables. We calculated niche breadth as the amplitude of conditions where a species is found, the response breadth (integral) for each variable based on response curves, as well as the hypervolume of conditions within the distribution for all variables. We found that temperature variables were more important in explaining optimum elevation and the high end, while precipitation and topographic variables were important at the low end. Phylogenetic analyses revealed that both the cold end and the optimum of niche factors were evolutionary labile, while the warm end was more conserved. Additionally, we found that niche breadth increased with elevational range, but no trend was found for niche breadth increasing with higher optimum elevation. The study suggests the climate variables future studies of range limits should focus on and corroborates that the warm end of the niche is constrained in adapting to climate change, which may explain observed range shifts. Finally, we discuss constraints and trade-offs to niche breadth evolution based on species' phylogenetic relationships.<br/><br/>
+  Co-authors:<br/>
+  Nora Hohmann - University of Basel, Basel, Switzerland<br/>
+  Yvonne Willi - University of Basel, Basel, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 15
+  name: "Nicola Felix"
+  surname: "Müller"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "Reassortment is an important source of genetic diversity in segmented viruses that has been linked, amongst other things, to the emergence novel pathogenic influenza viruses. Yet, no model based framework exists to date that allows us to study this process in a coherent statistical fashion. In order to fill this gap, we introduce a new coalescent approach that allows us to directly model the joint coalescent and reassortment process. Under this model, the resulting evolutionary history of sampled viruses is no longer a phylogenetic tree, but a phylogenetic network. To perform inference under this model we have developed a novel Markov Chain Monte Carlo approach. This allows us, for the first time, to infer rooted reassortment networks and the embedding of phylogenetic trees within networks, together with coalescent and reassortment rates. Using this approach we study reassortment rates in different influenza viruses to find differences in reassortment across different influenza viruses. We further investigate the rates of reassortment between pairs of segments, to search for incompatibilities and biases in how segments co-reassort.<br/><br/>
+  Co-authors:<br/>
+  Ugne Jankauskaite - ETH Zürich, Zürich, Switzerland<br/>
+  Gytis Dudas - GGBC, Göteborg, Sweden<br/>
+  Tanja Stadler - ETH Zürich, Zürich, Switzerland<br/>
+  Timothy G. Vaughan - ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 16
+  name: "Jana S."
+  surname: "Huisman"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "In structured populations, evenly sampled sets of genetic sequence data are rare. Often the unit of structure itself (the deme) conditions how easily samples can be accessed, or which fraction of the total compartment size is sampled. This deme-dependent sampling is likely to affect the phylodynamic inference of structured populations, where migration rates between demes are the primary parameter of interest. Thus, we conducted a simulation study to investigate the effects of biased sampling on the inference of migration rates. First, phylogenetic trees were simulated under a compartmental model with migration, with varying rates of sampling in the different demes. Subsequently, the migration rates were inferred from these simulated trees, using the birth-death with migration model and Lemey’s discrete trait analysis model. Preliminary results show that zero sampling can lead to wrong conclusions about the direction of migration; which can be mitigated only in part by including strong priors on the sampling proportion of the unsampled deme. Slightly higher sampling rates show sampling dependence mostly in the variance of inferred parameters. The amount of bias depended on the magnitude of the true (simulated) migration rates. This study will carry implications for e.g. the spread of antibiotic resistance among bacteria - where sampling depends on resistance status, palaeontology - where fossilisation rates vary across clades, and phylogeography - where sampling rates are location dependent.<br/><br/>
+  Co-authors:<br/>
+  Timothy Vaughan - ETH Basel, Basel, Switzerland;  ETH Zürich, Zürich, Switzerland<br/>
+  Sebastian Bonhoeffer -  ETH Zürich, Zürich, Switzerland<br/>
+  Tanja Stadler - SIB, Lausanne, Switzerland; ETH<br/>
+  Basel, Basel, Switzerland;  ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 17
+  name: "Joshua"
+  surname: "Christie"
+  company: "University of Sydney, Sydney, Australia"
+  title:
+  bio: "Why do so many organisms have two sexes or mating types? Having two self-incompatible gamete types appears to be the worst possible solution, as it halves the number of potential mates for any given gamete. Indeed, theory predicts strong selection for gametes to evolve compatibility with other members of their own type. Existing hypotheses for the evolution of two mating types focus on how mating types might improve a gamete's ability to engage in asymmetric interactions, such as finding a compatible partner, physically adhering to its partner once found, or coordinating the inheritance of mitochondria. We propose a new hypothesis to explain the evolution of mating types. In our model, mutations can randomly accumulate on different loci that govern mating type interactions (mechanisms for gamete finding, gamete adhesion, and zygote viability). We identify asymmetries that drive the accumulation of mutations improving a type's ability to find dissimilar types, a corollary of which is less frequent interactions between similar types. Selection consequently becomes less effective at purging mutations that impair interactions between similar types. The model leads to ‘mutational entrenchment’, whereby the evolution of asymmetrical interactions with dissimilar types degrades the mechanisms necessary for interaction with other members of the same type. We suggest that this represents a plausible scenario for the initial evolution of mating types. We pair our theoretical modelling with a phylogenetic reconstruction of mating type evolution so as to ensure that our modelling assumptions are consistent with our understanding of evolutionary history.<br/><br/>
+  Co-authors:<br/>
+  George Constable - University of Bath, Bath, United Kingdom<br/>
+  Nina Gerber - University of Zürich, Zürich, Switzerland<br/> 
+  Simon Ho - University of Sydney, Sydney, Australia<br/>
+  Hanna Kokko - University of Zürich, Zürich, Switzerland "
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 18
+  name: "Irene"
+  surname: "Garcia Ruiz"
+  company: "University of Bern, Bern, Switzerland"
+  title:
+  bio: "Traditionally, the evolution of cooperative breeding, where individuals help raising the offspring of others, has been assumed to be caused by kin selection. However, this framework lacks explanatory power for the evolution of cooperation in the presence of unrelated helpers. A plausible alternative evolutionary mechanism of alloparental care is implied by the group augmentation hypothesis, which states that subordinates in cooperatively breeding species provide help in order to increase group size. Consequently, helpers benefit from improved survival or future reproductive benefits in case they start reproducing in their home territory. There is yet little theoretical work scrutinizing the conditions under which alloparental care can evolve by the mere influence of group augmentation benefits. We developed an individual-based model to study the evolution of the decision to delay dispersal and to provide alloparental care based on the group augmentation hypothesis. We assume a scenario where only dominant individuals are able to breed, and where their fecundity level is a function of the cumulative help from the subordinate helpers they have available. Relatedness is implemented as an emergent factor from population dynamics. In our model, we include variance in the relative influence of ecological factors, like predation risk and the likelihood of dispersed individuals to find a group with a breeding position available. We also allow individuals to react to their current rank when deciding to stay or disperse and how much help they provide. We discuss under which ecological circumstances help could evolve through group augmentation and the interplay with relatedness.<br/><br/>
+  Co-authors:<br/>
+  Michael Taborsky - University of Bern, Bern, Switzerland<br/>
+  Andrés Quiñones - University of Los Andes, Bogotá, Colombia"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 19
+  name: "Claire"
+  surname: "Guerin"
+  company: "University of Lausanne, Lausanne, Switzerland"
+  title:
+  bio: "Cooperation, taken in its broad sense, is ubiquitous to all human societies. Its evolution and maintenance within small, egalitarian communities of hunter-gatherers can be explained by kin selection or reciprocity. However as groups settled during the Agricultural Revolution, population sizes exploded upon surplus production whilst social structures became more complex. From an evolutionary point of view, the former processes could no longer ensure cooperation, nor explain the surge of hierarchy in such large populations of non-kin, as rare mutant free-riders would invariably invade. Humans however, as a fundamentally cultural species, developed the ability through social learning processes and shared intentionality to negotiate institutional rules that can in turn change the outcome of the economic 'game of life'. We use agent-based simulations to study the co-evolution of hierarchy and collective actions in demographically explicit, structured populations. We consider social groups of individuals that rely on technology-driven resource extraction for growth. Technological knowledge within a group can be augmented by investing some public good into innovation. In order to hinder free-riding on others´ investment, another part of the public good can also be invested into policing; however, the allocation of public good between policing and innovating must be agreed upon by the group. Reaching consensus is a time-consuming process that impedes productivity, but can be minimized by delegating decision-making power to a specialised social class. The study of human evolution is interdisciplinary at its core. Striving to bridge the gap between fields, a growing body of academics has put considerable effort into establishing a formal theoretical framework. This work partakes in deciphering the transition of human societies, for which evolutionary theory is of central significance.<br/><br/>
+  Co-authors:<br/>
+  Laurent Lehmann - University of Lausanne, Lausanne, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 20
+  name: "Björn"
+  surname: "Vessman"
+  company: "University of Lausanne, Lausanne, Switzerland"
+  title:
+  bio: "While interactions between species are often assumed to be constant, recent experimental studies have shown that interactions in a microbial community may depend on environmental conditions. Our lab studies interactions between four bacterial species that grow on toxic waste. In experiments, we initially observed only positive interactions between the different species. To explain these observations, we propose a simple model to describe how the interactions between species can occur as a side effect of consumer-resource dynamics. We assume that the bacteria share a substrate containing nutrients and toxins that they can grow on and degrade, respectively. The concentration of nutrients and toxins determine the direction and strength of interactions, so that the same pair of species may show either positive or negative interactions depending on the concentrations. We use the model to show how in co-culture, when one species degrades the toxic substrate, it facilitates growth of other species even in the face of underlying competition for a common pool of nutrients. Additional community members may increase the resource competition or improve detoxification, depending on growth parameters of the species and the concentration of nutrients and toxins. Our model makes clear, qualitative predictions that are supported by further experiments, explaining why we may observe positive interspecies interactions within a bacterial community in a toxic environment. We are now working on fitting the model parameters to our experimental data to make more quantitative predictions. Our results may help the design of microbial communities with a desired function.<br/><br/>
+  Co-authors:<br/>
+  Philippe Piccardi - University of Lausanne, Lausanne, Switzerland<br/>
+  Sara Mitri - University of Lausanne, Lausanne, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 21
+  name: "Thomas"
+  surname: "Aubier"
+  company: "University of Zürich, Zürich, Switzerland  "
+  title:
+  bio: "Sexual interactions play an important role in generating reproductive isolation, with clear consequences for speciation. In particular, individuals may mate assortatively based on their mate preferences, causing premating isolation. Theoretical developments have focused on the evolution of mate preferences in each sex separately. However, mounting empirical evidence suggests that premating isolation often involves mutual mate choice (e.g. in cichlid fishes or Heliconius butterflies). Here, using a population genetic model, we investigate how female and male mate preferences co-evolve (phenotype matching rule) and how this affects reproductive isolation. One might expect mutual mate choice to enhance reproductive isolation: if preferences expressed by one sex leads to some isolation, surely preferences in the two sexes must lead to even stronger isolation? We show that this is a naive expectation. Mutual mate choice is unstable because the coevolution of preferences fosters the occurrence of bursts of gene flow which inhibit differentiation. Premating isolation is therefore more reversible than predicted by previous models. Our theoretical predictions may upturn the way we view the process of speciation, and our empirical appreciation of the stages along the so-called 'speciation continuum'. Cycles of divergence and gene flow, rather than a steady increase in divergence, may in fact characterize speciation.<br/><br/>
+  Co-authors:<br/>
+  Hanna Kokko – University of Zürich, Zürich, Switzerland<br/> 
+  Mathieu Joron – CEFE, Montpellier, France"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 22
+  name: "Matteo"
+  surname: "Tomasini"
+  company: "University of Bern, Bern, Switzerland"
+  title:
+  bio: "The influences of habitat structure on evolutionary rescue and on adaptation in general have been a topic of interest for many years. Recent studies, both empirical and theoretical, have highlighted the influence of gene flow on the probability of evolutionary rescue, although failing to fully understand the intricate relationships between migration, speed and harshness of change. Here, we compare how long- and short-range migration influence evolutionary rescue in a metapopulation model with multiple patches. We present a model that predicts under which conditions and how gene flow hinders evolutionary rescue. Then, we use simulations to show that the rate of migration which maximizes chances of evolutionary rescue depends on the range of migration and on the level of fragmentation of the habitat.<br/><br/>
+  Co-authors:<br/>
+  Stephan Peischl - University of Bern, Bern, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 23
+  name: "Hanna"
+  surname: "ten Brink"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "Bet hedging is of crucial important for organisms living in unpredictable environments. One way to deal with uncertainty among growing seasons is dormancy, which spreads the emergence of offspring across multiple years. Proper timing of emergence is not only important among years, but also within the growing season. Here, we study the evolutionary interactions between bet hedging strategies that deal with among- and within-season uncertainty. To do so, we use a modelling approach to study the separate evolution of dormancy and within-season arrival time, as well as their joint evolution, in plants with an annual life cycle. We find that dormancy can compensate for within-season bet hedging, but not the other way around. Because of this compensatory effect of dormancy on within-season bet hedging, we find that with higher among-season dormancy, plants take more risk within the growing season. Our results indicate that when natural environments become more unpredictable, this counterintuitively leads to less within-season bet hedging. Furthermore, we find that strong priority effects select for earlier emergence which in turn increases the need for dormancy.<br/><br/>
+  Co-authors:<br/>
+  Jennifer Gremer –  UC Davis, Davis, United States of America<br/>
+  Hanna Kokko - University of Zürich, Zürich, Switzerland "
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 24
+  name: "Runa"
+  surname: "Kvamme Ekrem"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "For organisms living in a temporally fluctuating environment, timing important life history events to favorable periods may be crucial for their existence. Polymorphism in timing within populations may cause temporal isolation in reproductive timing among individuals. However, if individuals following different cycles experience partial temporal overlap during their reproductive period, interbreeding may produce maladapted emergence times and inhibit adaptation to environmental fluctuations. Clunio marinus is a marine midge living in the intertidal zone. Biological clocks allow them to time their synchronize reproduction during periods of the lowest water levels of the month, around new moon and/or full moon. Within sites, different genotypes follow distinctive cycles, in which reproduction occasionally overlap temporally. We have developed a population dynamics model where we aim to understand under what conditions we can find sympatric coexistence among strains of C. marinus differing in timing and/or frequency of reproduction. We find that strains emerging more frequently tend to have a lower proportion of their population reproducing at each reproduction event. Thus, when the strains are similar in size, more frequent emerging strains constitute a lower proportion of the total adult population during mating, causing a higher proportion of these individuals to hybridize. When hybrids experience much lower survival than pure strains, the more frequent emerging strains quickly goes extinct. However, the more frequent emerging strain have a potential of shorter generation time that, under some parameter conditions, causes rapid growth and fixation. For almost all parameter values, the more frequent emerging strain either fixate or goes extinct. In contrast, two strains emerging at the same frequency, but only overlapping once a year, tend to coexist at a greater variety of parameter combinations.<br/><br/>
+  Co-authors:<br/>
+  Hanna Kokko - University of Zürich, Zürich, Switzerland<br/> 
+  Tobias Kaiser - Max Planck Institute, Plön, Germany"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 25
+  name: "Franziska"
+  surname: "Brenninger"
+  company: "University of Zürich, Zürich, Switzerland & Ludwig-Maximilians-University, Munich, Germany"
+  title:
+  bio: "The African Monarch butterfly Danaus chryssipus can be infected by the microbial endosymbiont Spiroplasma. Strikingly, the infection with the endosymbiont is most common in the contact zone of the four different African monarch color morphs. Here, the maternally inherited bacterium shifts the sex-ratio of the infected butterfly populations to nearly all female, by killing male offspring. We will present preliminary results of a population dynamic model investigating the potential spread or decline of the male-killer infection. We focus first on sex-specific dispersal with the aim to later track evolutionary dynamics in a scenario where dispersal may depend on infection. The project’s objective is to better understand the role of dispersal as a factor potentially maintaining polymorphism, biased sex-ratios and population persistence in infected areas. The study will improve our understanding of the importance of dispersal in the D. chryssipus species complex and highlight the potential impact of a heritable microbe on spatial evolution of a host species.<br/><br/>
+  Co-authors:<br/>
+  Simon Martin - University of Edinburgh<br/>
+  Lotte de Vries - University of Zürich, Zürich, Switzerland <br/>
+  Hanna Kokko - University of Zürich, Zürich, Switzerland "
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 26
+  name: "Hélène"
+  surname: "Chabas"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "CRISPR-Cas systems are prokaryotic adaptive immune systems that protect 40% of bacteria and 90% of archaea against mobile genetics elements, including viruses. Uniquely, these systems can acquire and memorize a new resistance: when a cell is attacked, the system uptakes 30 bp of the parasite DNA, integrates it into the bacterial chromosome and uses it to target and degrade the parasite DNA. Therefore, the acquisition of a new resistance is a key step for the efficiency of this immunity and a high probability of acquisition should be, at a first glance, selected for. Surprisingly, when attacked, the probability for a single cell to acquire a new resistance is extremely low. However, bacteria with a higher probability of acquisition can easily be generated in the lab. Why is the probability of acquisition so low? In this work, we theoretically study the impact of various factors on the evolution of the probability of acquiring a new resistance.<br/><br/>
+  Co-authors:<br/>
+  Roland R. Regoes -  ETH Zürich, Zürich, Switzerland<br/>
+  Sebastian Bonhoeffer -  ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 27
+  name: "Bram"
+  surname: "van Dijk"
+  company: "Utrecht University, Utrecht, Nederlands"
+  title:
+  bio: "Experimental evolution of microbes often involves a serial transfer protocol, where microbes are repeatedly diluted by transfer to a fresh medium, starting a new growth cycle. Here we study how in silico evolved Virtual Microbe “wild types” (WTs) adapt to a serial transfer protocol to search for generic evolutionary features, and to investigate how these features depend on prior evolution. We show that all WTs adopt a fine-tuned balance of growth and survival, anticipating the regularity of the serial transfer protocol. We find that this anticipation can happen either by means of a single lineage, or by multiple ecological lineages that specialise either on the growth phase or the stationary phase. Interestingly, replicate populations of the same WT initially show similar trajectories, but may subsequently diverge along a growth rate versus yield trade-off. In summary, we find that all our in silico WTs show the same anticipation effects — fitting the periodicity of a serial transfer protocol — but prior adaptations can strongly determine subsequent evolution.<br/><br/>
+  Co-authors:<br/>
+  Jeroen Meijer - Utrecht University, Utrecht, Nederlands<br/>
+  Paulien Hogeweg - Utrecht University, Utrecht, Nederlands"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 28
+  name: "Thomas"
+  surname: "Haaland"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "In order to understand how organisms cope with ongoing changes in environmental variability, different types of adaptations to environmental uncertainty on different time-scales must be considered together. Conservative bet-hedging represents a long-term genotype-level strategy that maximizes lineage geometric mean fitness in stochastic environments by decreasing individual fitness variance, despite also lowering arithmetic mean fitness. Meanwhile, variance-prone (aka risk-prone) strategies produce greater variance in short-term payoffs because this increases expected arithmetic mean fitness if the relationship between payoffs and fitness is accelerating. Here we investigated whether selection for such variance-prone strategies are counteracted by selection for bet-hedging that works to adaptively reduce fitness variance, using geometric mean fitness calculations and two evolutionary simulation models. We predict that variance-prone strategies will be favored in scenarios with more decision events per lifetime and when fitness accumulates additively rather than multiplicatively. In line with this, variance-proneness evolved in fine-grained environments (with lower correlations among individuals in energetic state and/or in payoffs when choosing the variable decision), and with larger numbers of independent decision events over which resources accumulate prior to selection. In contrast, geometric fitness accumulation caused by coarser environmental grain and fewer decision events prior to selection favors conservative bet-hedging via greater variance-aversion. These results advance our understanding of how bet-hedging and variance-sensitive strategies interact to affect decisions related to optimal foraging, migration, life histories and cooperative breeding. By linking disparate fields of research studying adaptations to variable environments we should be more able to understand population and evolutionary responses to human-induced rapid environmental change.<br/><br/>
+  Co-authors:<br/>
+  Jonathan Wright - NTNU, Trondheim, Norway<br/>
+  Irja Ida Ratikainen - NTNU, Trondheim, Norway"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 29
+  name: "Jeroen"
+  surname: "Meijer"
+  company: "Utrecht University, Utrecht, Nederlands"
+  title:
+  bio: "Metabolic dependencies are widespread in natural microbial communities and an important driver of ecosystem structure and diversity. Self-sufficient 'superorganisms', individually capable of performing all necessary metabolic functions, are equally common. This raises the question what determines whether microbes evolve metabolic division of labour, or maintain self-sufficiency.Here, we performed parallel evolution experiments using Virtual Microbes, a computational model of microbial eco-evolutionary dynamics with a multilevel, freely evolvable genotype-phenotype map, with fitness and metabolic strategies are emergent phenomena. We show that initially identical populations --when propagated under identical conditions-- can reach two very different eco-evolutionary attractors: an obligately crossfeeding community of interdependent metabolic specialists, or alternatively, a community formed by a single lineage of microbes that are metabolically autonomous. Which type of community evolves is dependent on, and can be predicted from a ``frozen metabolic accident'': the energy metabolism that emerged earlier in evolution. Differences between these frozen accidents appear neutral across populations at the time of fixation, but have far reaching repercussions for subsequent evolution. This suggests that the evolution and assembly of microbial communities might not reflect global optimization of resource utilization, and cannot be predicted from the biochemical constraints or first principles, but instead is contingent on biological, evolved properties of the cell.<br/><br/>
+  Co-authors:<br/>
+  Bram van Dijk - Utrecht University, Utrecht, Nederlands<br/>
+  Paulien Hogeweg - Utrecht University, Utrecht, Nederlands"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 30
+  name: "Sarah"
+  surname: "Nadeau"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "Some pathogen mutations can make patient symptoms much more severe. For this reason, researchers often want to test whether pathogen mutations are associated with patient symptom severity. Symptoms are determined by a combination of ‘heritable’ pathogen-specific features, e.g. a mutation that induces drug resistance, and ‘non-heritable’ host or environmental features, e.g. the patient age or stress level. In association testing, we think of non-heritable features as a source of noise in symptom measurements. Removing this noise would allow us to detect pathogen mutations that are significantly associated with symptom severity in an average patient with greater statistical power. The Phylogenetic Ornstein-Uhlenbeck Mixed Model (POUMM) has previously been used to estimate the heritable and non-heritable components of symptoms. We introduce a new estimator for the heritable component of symptoms by combining the POUMM estimate with measured symptoms in a weighted average. When symptoms are highly heritable (i.e. pathogen-specific features dominate), higher weight is given to symptom measurements. When symptoms are not very heritable (i.e. noise features dominate), higher weight is given to the POUMM estimate. The POUMM is advantageous when symptom measurements are very noisy because it constrains the heritable component to be similar for related pathogen strains. Simulations show that under many POUMM parameterizations our estimator is more accurate than both the naïve estimator, symptom measurements, and the POUMM-estimated heritable component alone. This estimator could be used to help identify new pathogen mutations that are significantly associated with symptom severity.<br/><br/>
+  Co-authors:<br/>
+  Venelin Mitov -  ETH Zürich, Zürich, Switzerland<br/>
+  Tanja Stadler -  ETH Zürich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 31
+  name: "Julien"
+  surname: "Riou"
+  company: "University of Bern, Bern, Switzerland"
+  title:
+  bio: "Expanding antiretroviral therapy (ART) has resulted in considerable heterogeneity in the emergence and spread of HIV-1 drug resistance to non-nucleoside reverse transcriptase inhibitors (NNRTI) between different countries and settings. Systematic reviews and meta-regression analyses of cross-sectional surveys can provide insights into temporal trends of resistance. Here, we considered a mechanistic approach using compartmental models of HIV-1 transmission that can link the observed levels of NNRTI resistance to the underlying dynamics of the local HIV-1 epidemic. Our aim was to investigate the main drivers of resistance spread in 9 countries of southern Africa and explain the between-country heterogeneity by local aspects regarding the roll-out of ART, health policies and socio-economical conditions. We developed an approach based on a multilevel system of transmission models that describe the HIV-1 epidemics in the adult population of each country from 2000 to 2016, including the roll-out of ART from the mid-2000s. We fitted these models in a Bayesian framework using Markov Chain Monte Carlo methods to country-level indicators of the HIV-1 epidemics. This approach could adequately reproduce the HIV-1 epidemics in each country, including incidence, prevalence, AIDS-related deaths and ART coverage. We found substantial heterogeneity between the rates of emergence and spread of NNRTI resistance in each country. This heterogeneity can be associated with the pace of ART roll-out and several health and socio-economic indicators such as literacy rate or prevention of mother-to-child transmission. Using hierarchical HIV-1 transmission models to analyze NNRTI resistance in southern Africa provides a detailed understanding of the drivers of resistance emergence in several countries. With the prospect of introducing dolutegravir in southern Africa, our results will allow public health authorities to anticipate on potential issues of drug resistance emergence related to local characteristics.<br/><br/>
+  Co-authors:<br/>
+  Matthias Egger - University of Bern, Bern, Switzerland<br/>
+  Christian Althaus - University of Bern, Bern, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 32
+  name: "Arthur"
+  surname: "Sanguet"
+  company: "University of Geneva, Geneva, Switzerland"
+  title:
+  bio: "The Swiss Confederation and the canton of Geneva have adopted a law and strategy for Biodiversity which aims to pursue traditional biodiversity protection efforts. In this context, an expert group conducted by the University of Geneva, the High Specialized School of Geneva, the Conservatory and Botanical Garden of Geneva and the cantonal office for biodiversity and agriculture, are aiming to identify the Green Infrastructure in Geneva and its surroundings. Green Infrastructure is a network of (semi-)natural areas that would help conserve biodiversity, supply of ecosystem services and ecological connectivity. The modelling of plant diversity in Geneva and its surroundings is part of this larger project. Based on the known distribution of plant taxa and various climatic, physical and biotic variables, we use Species Distribution Modelling to map the potential distribution of more than 1500 taxa with the MaxEnt software. Then, the distributions can be aggregated with several methods to map alpha diversity (hotspots), as well as a “biodiversity network” using prioritization software. This kind of software allows finding the best compromise between all inputs and the network of areas resulting from the analysis represents, at least, a predetermined part of all the distribution of plant taxa. Mapping species diversity hotspots and network are two methods representing biodiversity and it would be interesting to compare the results in a context of conservation. This seminar on modelling in ecology and evolution would be the opportunity for me to present the first results of my PhD and to discuss methods of mapping and modelling biodiversity with other students and researchers from this scientific field.<br/><br/>
+  Co-authors:<br/>
+  Anthony Lehmann - University of Geneva, Geneva, Switzerland<br/>
+  Martin Schlaepfer - University of Geneva, Geneva, Switzerland<br/>
+  Pascal Martin - Botanical garden of Geneva, Geneva, Switzerland<br/>
+  Nicolas Wyler - Botanical garden of Geneva, Geneva, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 33
+  name: "Michael"
+  surname: "Schmutzer"
+  company: "University of Zürich, Zürich, Switzerland"
+  title:
+  bio: "Cellular processes are inherently stochastic and this randomness or ‘noise’ affects a cell's phenotype and thus its fitness. How this variability influences the efficiency of selection is subject to debate. On the one hand, noise slows down the rate of adaptation as it leads to non-heritable variation in fitness. On the other hand, noise can increase the rate of adaptation in populations that have very low fitness if (i) noise increases the fitness of the population and (ii) noise increases the fitness benefit derived from mutations. The latter effect has so far been investigated using highly abstract models in constant environments. However, other modelling efforts show that fitness benefits from expression noise can also exist in fluctuating environments. I present an explicit, individual-based model of a bacterial population growing in an environment switching between two carbon sources. Only a minority of cells can re-establish growth after an environmental shift, and selection favours populations with a higher proportion of growing cells. Successful growth requires rewiring metabolism, a process regulated by a bistable switch under the control of a stochastically expressed transcription factor (TF). My simulations show that (i) increased noise in the TF expression increases the proportion of growing cells and thus improves the fitness of a population, (ii) the same mutation results in larger fitness increases in populations with noisier TF expression, and (iii) beneficial mutations are more likely to go to fixation in noisier populations. This demonstrates that theory about the adaptive benefits of noise extends to fluctuating environments and more realistic bacterial behaviour.<br/><br/>
+  Co-authors:<br/>
+  Andreas Wagner - University of Zürich, Zürich, Switzerland "
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 34
+  name: "Sophie"
+  surname: "Seidel"
+  company: "ETH Zürich, Zürich, Switzerland"
+  title:
+  bio: "Quantifying population dynamic parameters from genetic sequence data is one of the central aims of phylodynamic inference. The two most widely used models, namely the birth-death process and the coalescent, have been extended to include population structure in the recent years. Even though both of them are used extensively, there is a clear lack of understanding on how they compare. We performed a simulation study to investigate their performance under a representative set of scenarios including varying growth, sampling and migration. We find that the structured coalescent cannot correctly estimate neither the migration rates nor the effective population sizes for exponentially growing populations. For almost constant population sizes, it provides more accurate estimates of the migration rates than the BD model. We detect signs for improved accuracy in the migration rate estimates when the average branch length is shorter.<br/><br/>
+  Co-authors:<br/>
+  Tanja Stadler -  ETH Zürich, Zürich, Switzerland<br/>
+  Timothy Vaughan -  ETH Zürich, Zürich, Switzerland  "
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 35
+  name: "Julie Teresa"
+  surname: "Shapiro"
+  company: "INSERM, Lyon, France"
+  title:
+  bio: "Antimicrobial resistance is a major threat to public health. The prevalence of multidrug resistant organisms (MDROs) in hospital wards depends largely on local antibiotic selection pressure and MDRO introduction from other wards or the community. Understanding the relative contribution of these factors is essential for designing effective antimicrobial stewardship and infection control strategies. Here we adopt a metapopulation approach to compare the impacts of local selection and inter-ward introduction on the prevalence of various MDROs and their non-MDR counterparts. Data were collected from October 2016 to October 2017 from 523 wards in 4 hospital groups in Lyon, France. Both susceptible and MDR variants of the high-priority ESKAPE pathogens (as defined by WHO) were considered, namely, Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp., as well as Escherichia coli (total, 17 bacterial groups in 7 species, based on resistance to carbapenems, third-generation cephalosporins, vancomycin or methicillin as appropriate for each species). The main model outcome was the number of patients infected by each bacterial group in each ward. Local selection pressure was estimated from the number of delivered defined daily doses of antibiotics. As a proxy for inter-ward introduction, we counted patients transferred from wards harboring the same bacterial group. We used a modified Hanski metapopulation model with Poisson regression controlling for sampling bias, to examine associations of the prevalence of each bacterial group with antibiotic consumption and patient transfers. Across the 7 bacterial taxa, the influence of both antibiotic consumption and connectivity generally increased with increasing resistance, with antibiotic consumption generally having a greater influence than inter-ward introduction. 
+  The effect of antibiotic consumption was greatest for carbapenem-resistant K. pneumoniae while the effect of patient transfers was greatest for vancomycin-resistant E. faecium. Our results show that the selection of some MDR and non-MDR variants occurs locally in individual wards and are strongly dependent on antibiotic consumption, while others appear to be mostly transferred by patients between wards. Hence, the effectiveness of reducing antibiotic consumption or isolating patients might vary between bacterial taxa and resistance profiles. Controlling resistance requires adapting strategies to each bacterial taxon and its resistance profile.<br/><br/>
+  Co-authors:<br/>
+  Gilles Leboucher - HCL, Lyon, France<br/>
+  Anatole Luzzatti - HCL, Lyon, France<br/>
+  Jean -François Sauzon - HCL, Lyon, France<br/>
+  Olivier Dauwalder - HCL, Lyon, France<br/>
+  Pascale Girardo - HCL, Lyon, France<br/>
+  Bénédicte Lafay - UCBL, Lyon, France<br/>
+  Christian Chidiac - HCL, Lyon, France<br/>
+  Jean-Pierre Flandrois - UCBL, Lyon, France<br/>
+  Jean-Philippe Rasigade - HCL, Lyon, France; UCBL, Lyon, France"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 36
+  name: "Berit"
+  surname: "Siedentop"
+  company: "ETH Zürich, Zürich, Switzerland"  
+  title:
+  bio: "Antibiotic resistance has become a major threat to global health. Combination therapy, i.e. treatment with multiple drugs simultaneously, has been successfully applied to HIV and tuberculosis. Therefore, the question arises whether combination therapy might be a beneficial treatment strategy to prevent or at least postpone the emergence of resistance in bacterial infections more generally. Clinical data both supporting and not supporting combination therapy as a treatment strategy to prevent the development of resistance have been published. Trying to gain more insight we are conducting a meta-analysis including randomized and quasi-randomized clinical trials comparing antibiotic combination therapy and monotherapy with respect to the endpoint emergence of resistance. Also, the theory that antibiotic combination therapy is able to prevent the development of resistance is mainly based on bacteria carrying chromosomal resistance, but antibiotic resistance can also be plasmid-mediated. In a mathematical model we want to explore the effect of antibiotic combination therapy on the spread of plasmid-mediated resistance enabling bacteria to be resistant to multiple drugs.<br/><br/>
+  Co-authors:<br/>
+  Sebastian Bonhoeffer - ETH Zürich, Zürich, Switzerland <br/>
+  Roger Kouyos - University Hospital Zurich, Zürich, Switzerland <br/>
+  Burcu Tepekule - ETH Zürich, Zürich, Switzerland <br/>
+  Viacheslav Kachalov - University Hospital Zurich, Zürich, Switzerland"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
+-
+  id: 37
+  name: "Xiang-Yi"
+  surname: "Li"
+  company: "University of Neuchâtel,Neuchâtel, Switzerland"  
+  title:
+  bio: "In many species of monogamous birds, females often commit extra-pair mating and male also actively try to obtain opportunities for siring extra-pair offspring. A popular explanation for the female “cheating” behavior is to obtain good genes for her offspring from high-quality males while taking advantage of the help received from her social partner. However, as intra-locus sexual conflict is wide-spread, high quality males may sire attractive sons but low-fecundity daughters, making female extra-pair mating less profitable. In this work, we study the coevolution of female fidelity and male help under such sexual conflict. We show that the effectiveness of mate-guarding of males (as a by-product of helping with parental care) plays crucial role in the coevolutionary dynamics. When mate-guarding is effective, stable polymorphism evolves in the male population, so that most males are highly helpful to their partners while a small proportion forgo pair formation completely and try to obtain paternity solely from extra-pair mating. When mate-guarding is ineffective, the degrees of female fidelity and male help evolve to fluctuate in cycles.<br/><br/>
+  Co-authors:<br/>
+  Wolfgang Goymann - Max-Planck Institute for ornithology, Constance, Germany"
+  #thumbnailUrl: draghi.jpeg
+  rockstar: false
 -

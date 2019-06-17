@@ -44,25 +44,30 @@
 -
   id: 001
   title: "Can a population targeted by an artificial gene drive be rescued?"
-  description: "Abstract: Gene drive, a type of genetic control, consists in using selfish genetic elements to modify or eradicate populations. The idea is not new, but has only recently become feasible, thanks to the development of CRISPR-Cas gene editing tools. The technique raises a lot of questions, notably ethical ones. A major issue is that a gene drive may be unstoppable. "Brake" constructs have however been proposed to stop a gene drive. They act on drive alleles, but do not modify wild-type alleles. Using mathematical models, we studied whether these brake constructs can stop a gene drive and restore a wild-type population. In this talk, I will first present results on a well-mixed population, and then will turn to the case of spatial spread. These models help identify the (theoretical) conditions under which a gene drive can indeed be stopped"
+  description: "<p> <font color=black> Gene drive, a type of genetic control, consists in using selfish genetic elements to modify or eradicate populations. The idea is not new, but has only recently become feasible, thanks to the development of CRISPR-Cas gene editing tools. The technique raises a lot of questions, notably ethical ones. A major issue is that a gene drive may be unstoppable. <q>Brake</q> constructs have however been proposed to stop a gene drive. They act on drive alleles, but do not modify wild-type alleles. Using mathematical models, we studied whether these brake constructs can stop a gene drive and restore a wild-type population. In this talk, I will first present results on a well-mixed population, and then will turn to the case of spatial spread. These models help identify the (theoretical) conditions under which a gene drive can indeed be stopped </font> </p>"
   subtype: keynote
   speakers: [1]
 -
   id: 002
-  title: "Title: to be announced"
-  description: "Abstract: to be announced"
+  title: "Modelling species niches and distributions: recent advances and some ways forward"
+  description: "<p> <font color=black>In recent years, biogeography has relied heavily on environmental niche models to predict species distributions in support of basic and applied research. Environmental niches and geographic distributions are tightly linked through Hutchinson’s duality. Starting from the latter, I will review recent advances in both species’ niche quantifications and distribution models, with illustration at various scales. I will then expand on modelling communities and biodiversity from individual species, and conclude with some future perspectives, including the power of artificial data to assess the performance and robustness of models.</font> </p>"
   subtype: keynote
   speakers: [2]
 -
   id: 003
-  title: "Title: to be announced"
-  description: "Abstract: to be announced"
+  title: "Malaria drug resistance and competition dynamics"
+  description: "<p> <font color=black>Antimicrobial resistance is a major health problem with complex dynamics leading to establishment and spread. This complexity is even greater for vector-borne diseases. Malaria drug resistance is of increasing concern, with resistance to artemisinin and several partner drug established in low transmission settings of the Greater Mekong Subregion, and fears resistance may establish and spread in malaria endemic settings of Africa. In this presentation we discuss the current malaria drug resistance situation and recent findings from mathematical models of malaria dynamics. In addition we present recent analysis aiming to understand determinants of establishment and spread of malaria drug resistant genotypes.
+  <br><br>Via a newly developed flexible model we explored coexistence dynamics of drug-sensitive and drug-resistant genotypes at the within-host, and between-host level in order to understand differences between settings. The competition dynamics include
+  <br>(i) transmission costs (between hosts);
+  <br>(ii) fitness costs (within untreated hosts);
+  <br>(iii) competitive release (within treated hosts).
+  <br>Transmission and fitness costs inhibit the spread of resistance, whereas competitive release promotes the spread. As well as competition dynamics, many other factors can be examined in the model, such as the drug efficacy, the treatment rate, the drug half-life, adherence, and infection length. Via global sensitivity analysis we find the strongest driver of establishment of resistant genotypes in the population is competitive release. Fitness costs have a stronger effect at preventing establishment than transmission costs. However, once established in a population, fitness costs have a lesser effect than transmission costs at preventing the resistant genotypes from completely replacing the sensitive genotype. Moreover, once resistance is established, the effect of competitive release is negligible. This flexible model has highlighted that the primary objective to reduce malaria resistance establishing is preventing competitive release, which can be achieved through combination therapies.</font> </p>"
   subtype: keynote
   speakers: [3]
 -
   id: 004
-  title: "Title: to be announced"
-  description: "Abstract: to be announced"
+  title: "Narrow paths to innovation in evolutionary models of stabilizing selection and phenotypic noise"
+  description: "<p> <font color=black>Random processes affect every level of biology. In evolution, stochasticity in reproductive success is called genetic drift and can be an impediment to adaptation or, in cases like Wright’s shifting balance model, a vital part of the process by which evolution finds innovative solutions. But randomness also contributes to what an individual looks like, adding uncertainty to how a genotype translates to a phenotype that we can call phenotypic noise. Here I present several models integrating phenotypic noise into models of how populations adapt to produce the right trait value in a given environment. Across several models we find that evolution can sometimes walk a narrow path to higher fitness despite constraints and without a major role for genetic drift. Phenotypic noise contributes in each model as a driver or mediator of change. With cellular-scale phenotypic measurements revealing a new world of microscopic phenotypic noise in biology, these results argue for a new appreciation for the many roles of randomness in evolutionary biology.</font> </p>"
   subtype: keynote
   speakers: [4]
 -

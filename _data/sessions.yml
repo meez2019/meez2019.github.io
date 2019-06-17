@@ -43,8 +43,8 @@
   description: "(15 min. presentation + 5 min. discussion)" 
 -
   id: 001
-  title: "Title: to be announced"
-  description: "Abstract: to be announced"
+  title: "Can a population targeted by an artificial gene drive be rescued?"
+  description: "Abstract: Gene drive, a type of genetic control, consists in using selfish genetic elements to modify or eradicate populations. The idea is not new, but has only recently become feasible, thanks to the development of CRISPR-Cas gene editing tools. The technique raises a lot of questions, notably ethical ones. A major issue is that a gene drive may be unstoppable. "Brake" constructs have however been proposed to stop a gene drive. They act on drive alleles, but do not modify wild-type alleles. Using mathematical models, we studied whether these brake constructs can stop a gene drive and restore a wild-type population. In this talk, I will first present results on a well-mixed population, and then will turn to the case of spatial spread. These models help identify the (theoretical) conditions under which a gene drive can indeed be stopped"
   subtype: keynote
   speakers: [1]
 -

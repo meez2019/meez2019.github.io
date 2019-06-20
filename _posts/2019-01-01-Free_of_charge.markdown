@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Information"
+title:  ""
 isStaticPost: true
 ---
 
-* Registration to the seminar is free of charge
-* Lunch will be provided to participants 
+###### Lunch will be provided to registered participants 

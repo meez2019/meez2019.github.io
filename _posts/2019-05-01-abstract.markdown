@@ -1,0 +1,7 @@
+---
+layout: post
+title:  ""
+isStaticPost: true
+---
+
+#### Abstract booklet in pdf can be downloaded <a href="https://drive.google.com/file/d/1wSa_S2SPkG-X3N-iwsUmMfIvxJW9hRSk/view?usp=sharing" target="_blank">here</a>
